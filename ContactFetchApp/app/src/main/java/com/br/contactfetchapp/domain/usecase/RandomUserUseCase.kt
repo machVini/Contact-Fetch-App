@@ -1,0 +1,1 @@
+package com.br.contactfetchapp.domain.usecaseimport com.br.contactfetchapp.data.model.RandomUserimport kotlinx.coroutines.flow.Flowinterface RandomUserUseCase {    operator fun invoke(page: Int, pageSize: Int): Flow<List<RandomUser>>}

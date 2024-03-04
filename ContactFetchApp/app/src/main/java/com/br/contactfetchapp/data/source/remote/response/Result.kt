@@ -1,0 +1,1 @@
+package com.br.contactfetchapp.data.source.remote.responsedata class Result(    val cell: String,    val dob: Dob,    val email: String,    val gender: String,    val location: Location,    val name: Name,    val nat: String,    val phone: String,    val picture: Picture,    val registered: Registered)

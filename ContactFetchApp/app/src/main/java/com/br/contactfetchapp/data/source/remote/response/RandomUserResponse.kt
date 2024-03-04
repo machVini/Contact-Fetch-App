@@ -1,0 +1,1 @@
+package com.br.contactfetchapp.data.source.remote.responsedata class RandomUserResponse(    val info: Info,    val results: List<Result>)

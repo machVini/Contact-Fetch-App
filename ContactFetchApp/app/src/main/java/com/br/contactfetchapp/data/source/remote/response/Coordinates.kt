@@ -1,0 +1,1 @@
+package com.br.contactfetchapp.data.source.remote.responsedata class Coordinates(    val latitude: String,    val longitude: String)

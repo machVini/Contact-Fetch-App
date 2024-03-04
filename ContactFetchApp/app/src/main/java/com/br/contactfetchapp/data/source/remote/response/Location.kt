@@ -1,0 +1,1 @@
+package com.br.contactfetchapp.data.source.remote.responsedata class Location(    val city: String,    val country: String,    val state: String,)

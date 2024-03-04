@@ -1,0 +1,1 @@
+package com.br.contactfetchapp.data.source.remote.responsedata class Timezone(    val description: String,    val offset: String)
